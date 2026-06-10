@@ -37,7 +37,12 @@ scikit-learn==1.2.2
 │   └── changes.csv
 ├── figures/                  # 数据可视化结果存放目录
 ├── pig_timm_resnet_attention_train.py   # 模型主训练脚本
-├── data_visualization.py     # 综合数据分析与绘图脚本
+├── data_visualization/        
+│   ├── python plot_bbox_width.py
+│   ├── python plot_bbox_height.py
+│   ├── python plot_bbox_aspect_ratio.py
+│   ├── python plot_class_dist.py
+├── README_CN.md
 └── README.md
 ```
 ## 🔥 环境安装
