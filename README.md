@@ -66,7 +66,8 @@ The script automatically executes data cleaning, balanced sampling, group valida
 After comprehensive optimization including data cleaning, adaptive augmentation, Soft Isolation strategy and model ensemble, our final solution achieved a competitive ranking in the official Kaggle competition:
 - Final Competition Ranking: Top 103 / 257
 - Core Advantage: Stable generalization performance under complex real farm scenarios, effectively solving common industrial CV pain points
-
+  
+![Competition Ranking](./kaggle_排名.png)
 
 
 ## Contact
