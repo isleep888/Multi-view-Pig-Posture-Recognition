@@ -59,7 +59,10 @@ The script automatically executes data cleaning, balanced sampling, group valida
 
 ## 🔥Data Visualization & Analysis
 ```python
-
+python plot_bbox_width.py        # Visualize distribution of bbox width
+python plot_bbox_height.py       # Visualize distribution of bbox height
+python plot_bbox_aspect_ratio.py # Visualize distribution of bbox aspect ratio
+python plot_class_dist.py        # Analyze and plot class distribution of training data
 ```
 
 ## 🏅 Competition Ranking
