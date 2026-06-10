@@ -36,7 +36,12 @@ scikit-learn==1.2.2
 │   └── changes.csv
 ├── figures/                  # Data visualization outputs
 ├── pig_timm_resnet_attention_train.py   # Main training script
-├── data_visualization.py     # Full data analysis & plotting
+├── data_visualization/        # Full data analysis & plotting
+│   ├── python plot_bbox_width.py
+│   ├── python plot_bbox_height.py
+│   ├── python plot_bbox_aspect_ratio.py
+│   ├── python plot_class_dist.py
+├── README_CN.md
 └── README.md
 ```
 ## 🔥Installation
