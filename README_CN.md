@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 ## 🔥 模型训练与推理
 ```python
-python pig_timm_resnet_attention_train.py
+python train.py
 ```
 该脚本可自动完成数据清洗、均衡采样、分组交叉验证、五折模型训练、测试时增强推理，并最终生成竞赛提交文件。
 
