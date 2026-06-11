@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 ## 🔥Model Training & Inference
 ```python
-python pig_timm_resnet_attention_train.py
+python train.py
 ```
 The script automatically executes data cleaning, balanced sampling, group validation, 5-fold training, TTA inference and final submission file generation.
 
